@@ -1,6 +1,7 @@
 Rencana Lanjutan resolusi
 - belajar js
   * Data Struct
+  * Func
 - belajar rect js
 - belajar next.js
 - Belahar Tailwindcss
