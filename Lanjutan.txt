@@ -1,0 +1,5 @@
+Rencana Lanjutan resolusi
+- belajar js
+- belajar rect js
+- belajar next.js
+- Belahar Tailwindcss
