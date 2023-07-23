@@ -3,3 +3,4 @@ Rencana Lanjutan resolusi
 - belajar rect js
 - belajar next.js
 - Belahar Tailwindcss
+  * Buat component
