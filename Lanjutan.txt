@@ -1,7 +1,7 @@
 Rencana Lanjutan resolusi
 - belajar js
- * Data struc
- * Func
+  * Data Struct
+  * Func
 - belajar rect js
 - belajar next.js
   * Simple App
