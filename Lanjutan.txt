@@ -4,5 +4,6 @@ Rencana Lanjutan resolusi
   * Func
 - belajar rect js
 - belajar next.js
+  * Simple App
 - Belahar Tailwindcss
   * Buat component
